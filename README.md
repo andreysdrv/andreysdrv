@@ -6,7 +6,7 @@
 * :gear: Из магистра по прикладной механике в web-разработку
 * :orange_book: Студент Яндекс.Практикума
 * :purple_heart: Спорт / латина / киберпанк
-* [:musical_note: :arrow_left:](https://open.spotify.com/playlist/07wHxD2DPUmjmdiKLeS7LQ?si=239eaba3da384521)
+* [<img align="center" alt="Spotify" width="23px" src=https://image.flaticon.com/icons/png/512/87/87409.png />](https://open.spotify.com/playlist/07wHxD2DPUmjmdiKLeS7LQ?si=239eaba3da384521)
 ---
 ### Мой стек:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
