@@ -28,4 +28,10 @@
 
 ---
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totalretard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 ![Andrew S.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=totalretard&show_icons=true&hide_border=false&theme=tokyonight)
+
+
+
