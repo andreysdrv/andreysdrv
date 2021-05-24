@@ -20,5 +20,4 @@
 
 ---
 
-(https://github-readme-stats.vercel.app/api?username=totalretard)
-
+![Andrew S.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=totalretard&show_icons=true&hide_border=false&theme=tokyonight)
