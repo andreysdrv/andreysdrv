@@ -1,6 +1,12 @@
 ---
 ### Привет, меня зовут Андрей. Я - начинающий front-end разработчик :sunglasses:
 ---
+### Обо мне:
+* :muscle: Развиваюсь и достигаю поставленные цели
+* :gear: Из магистра по прикладной механике в web-разработку
+* :orange_book: Студент Яндекс.Практикума
+* :purple_heart: Спорт / латина / киберпанк
+---
 ### Мой стек:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -15,6 +21,7 @@
 ---
 
 ### Контакты:
+[<img align="left" alt="tg" width="30px" src="https://pngicon.ru/file/uploads/telegram.png" />](https://t.me/andrey_sdrv)
 [<img align="left" alt="vk" width="30px" src="https://img.icons8.com/color/452/vk-com.png" />](https://vk.com/samsepiol1337)
 <br />
 
