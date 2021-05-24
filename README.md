@@ -11,3 +11,4 @@
 * Webpack
 * Git
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apitotalretardanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
