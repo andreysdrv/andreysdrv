@@ -20,8 +20,8 @@
 ### Контакты:
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/andreysdrv/)
 [<img src="./svg/telegram.svg">](https://t.me/andreysdrv)
-[<img src="./svg/gmail.svg">](mailto:sidorov.au.official@gmail.com)
-[<img src="./svg/vk.svg">](https://vk.com/samsepiol1337)
+[<img src="./svg/gmail.svg" width="96px" height="96px">](mailto:sidorov.au.official@gmail.com)
+[<img src="./svg/vk.svg" width="96px" height="96px">](https://vk.com/samsepiol1337)
 
 
 <div>
