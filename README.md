@@ -1,38 +1,34 @@
----
 ### Привет, меня зовут Андрей. Я - front-end разработчик :sunglasses:
----
 ### Обо мне:
 * :muscle: Развиваюсь и достигаю поставленные цели
 * :gear: Из магистра по прикладной механике в web-разработку
 * :orange_book: Студент Яндекс.Практикума
 * :purple_heart: Спорт / латина / киберпанк
 * [<img align="center" alt="Spotify" width="23px" src=https://image.flaticon.com/icons/png/512/87/87409.png />](https://open.spotify.com/playlist/07wHxD2DPUmjmdiKLeS7LQ?si=239eaba3da384521)
----
-### Мой стек:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Webpack" width="26px" src="https://camo.githubusercontent.com/2d683cb5e5b81f048a2b88929288bbc6ae6a2ea9e6a44c48d8664edd78b2a69c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7765627061636b2d69636f6e2e737667" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" width="26px" style="background-color: #fff" src="https://avatars.githubusercontent.com/u/223412?s=280&v=4" />
-<br />
+## Мой стек:
+![HTML](./svg/html-5.svg)
+![CSS](./svg/css3.svg)
+![JS](./svg/JS.svg)
+![Git](/.svg/git.svg)
+![React](./svg/react.svg)
+![Webpack](./svg/webpack.svg)
+![Node](./svg/nodejs.svg)
+![Express](./svg/expressjs.svg)
+![MongoDB](./svg/mongodb.svg)
 
----
 
 ### Контакты:
-[<img align="left" alt="tg" width="30px" src="https://pngicon.ru/file/uploads/telegram.png" />](https://t.me/andrey_sdrv)
-[<img align="left" alt="vk" width="30px" src="https://img.icons8.com/color/452/vk-com.png" />](https://vk.com/samsepiol1337)
-<br />
-
----
-
-![Andrew S.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=andreysdrv&show_icons=true&hide_border=false&theme=tokyonight)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreysdrv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/andreysdrv/)
+[<img src="./svg/telegram.svg">](https://t.me/andreysdrv)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:sidorov.au.official@gmail.com)
+[<img src="./svg/vk.svg">](https://vk.com/samsepiol1337)
 
 
-
-
-
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=andreysdrv&hide=contribs&show_icons=true&theme=react">
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=andreysdrv&hide=contribs&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreysdrv&layout=compact&theme=react">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreysdrv&layout=compact&theme=react" />
+  </a>
+</div>
