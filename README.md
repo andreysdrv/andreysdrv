@@ -9,19 +9,19 @@
 ![HTML](./svg/html-5.svg)
 ![CSS](./svg/css3.svg)
 ![JS](./svg/JS.svg)
-![Git](/.svg/git.svg)
+![Git](./svg/git.svg)
 ![React](./svg/react.svg)
-![Webpack](./svg/webpack.svg)
-![Node](./svg/nodejs.svg)
-![Express](./svg/expressjs.svg)
-![MongoDB](./svg/mongodb.svg)
+![Webpack width="96px" height="96px"](./svg/webpack.svg)
+![Node width="96px" height="96px](./svg/nodejs.svg)
+![Express width="96px" height="96px](./svg/expressjs.svg)
+![MongoDB width="96px" height="96px](./svg/mongodb.svg)
 
 
 ### Контакты:
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/andreysdrv/)
 [<img src="./svg/telegram.svg">](https://t.me/andreysdrv)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:sidorov.au.official@gmail.com)
-[<img src="./svg/vk.svg">](https://vk.com/samsepiol1337)
+[<img src="./svg/vk.svg" width="96px" height="96px>](https://vk.com/samsepiol1337)
 
 
 <div>
