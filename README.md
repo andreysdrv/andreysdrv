@@ -1,7 +1,7 @@
 ## Обо мне:
 * :gear: Магистр по прикладной механике.
 * :running: В веб-разработке с декабря 2020 года.
-* :orange_book: Студент Яндекс.Практикума.
+* :orange_book: Выпускник Яндекс.Практикума.
 * :computer: Ищу работу в качестве Frontend-разработчика.
 * [<img src="./svg/spotify.svg" width="22px" height="22px">](https://open.spotify.com/playlist/07wHxD2DPUmjmdiKLeS7LQ?si=239eaba3da384521)
 
