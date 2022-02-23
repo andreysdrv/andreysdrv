@@ -1,8 +1,7 @@
 ## Обо мне:
 * :gear: Магистр по прикладной механике.
-* :running: В веб-разработке с декабря 2020 года.
 * :orange_book: Выпускник Яндекс.Практикума.
-* [<img src="./svg/spotify.svg" width="22px" height="22px">](https://open.spotify.com/playlist/07wHxD2DPUmjmdiKLeS7LQ?si=239eaba3da384521)
+* :incoming_envelope:	Frontend Developer в [почтатехе](https://pochta.tech)
 
 ## Мой стек:
 ![HTML](./svg/html-5.svg)
@@ -18,10 +17,9 @@
 ![MongoDB](./svg/mongodb.svg)
 
 ## Контакты:
-[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/andreysdrv/)
+[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/andrew-sidorov/)
 [<img src="./svg/telegram.svg">](https://t.me/andreysdrv)
 [<img src="./svg/gmail.svg" width="96px" height="96px">](mailto:sidorov.au.official@gmail.com)
-[<img src="./svg/vk.svg" width="96px" height="96px">](https://vk.com/samsepiol1337)
 
 ##
 <div>
