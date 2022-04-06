@@ -4,19 +4,22 @@
 * :incoming_envelope:	Frontend Developer в [почтатехе](https://pochta.tech)
 
 ## Stack
-<img src="./svg/html5.svg" width="96px" height="96px">
-<img src="./svg/css3.svg" width="96px" height="96px">
-<img src="./svg/javascript.svg" width="96px" height="96px">
-<img src="./svg/git.svg" width="96px" height="96px">
-<img src="./svg/webpack.svg" width="96px" height="96px">
-<img src="./svg/react.svg" width="96px" height="96px">
-<img src="./svg/expo.svg" width="96px" height="96px">
-<img src="./svg/redux.svg" width="96px" height="96px">
-<img src="./svg/typescript.svg" width="96px" height="96px">
-<img src="./svg/nodedotjs.svg" width="96px" height="96px">
-<img src="./svg/express.svg" width="96px" height="96px">
-<img src="./svg/mongodb.svg" width="96px" height="96px">
-<img src="./svg/postgresql.svg" width="96px" height="96px">
+<div style="display: flex">
+    <img src="./svg/html5.svg" width="96px" height="96px">
+    <img src="./svg/css3.svg" width="96px" height="96px">
+    <img src="./svg/javascript.svg" width="96px" height="96px">
+    <img src="./svg/git.svg" width="96px" height="96px">
+    <img src="./svg/webpack.svg" width="96px" height="96px">
+    <img src="./svg/react.svg" width="96px" height="96px">
+    <img src="./svg/expo.svg" width="96px" height="96px">
+    <img src="./svg/redux.svg" width="96px" height="96px">
+    <img src="./svg/typescript.svg" width="96px" height="96px">
+    <img src="./svg/nodedotjs.svg" width="96px" height="96px">
+    <img src="./svg/express.svg" width="96px" height="96px">
+    <img src="./svg/mongodb.svg" width="96px" height="96px">
+    <img src="./svg/postgresql.svg" width="96px" height="96px">
+</div>
+
 
 ## Contacts
 [<img src="./svg/linkedin.svg" width="96px" height="96px">](https://www.linkedin.com/in/andrew-sidorov/)
