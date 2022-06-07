@@ -1,7 +1,7 @@
 ## About
-* :gear: Магистр по прикладной механике.
-* :orange_book: Выпускник Яндекс.Практикума.
-* :incoming_envelope:	Frontend Developer в [почтатехе](https://pochta.tech)
+* :gear: Master's degree in Applied Mechanics.
+* :orange_book: Graduate of Yandex.Practicum.
+* :incoming_envelope:	Frontend Developer in [pochta.tech](https://pochta.tech)
 
 ## Stack
 <div style="display: flex">
